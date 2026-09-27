@@ -1,6 +1,5 @@
 # System Design Note: Offline Satellite Tile Ingestion & Classification Service
-
-**Author**: Senior Backend & ML Systems Engineer Candidate  
+  
 **Target Environment**: Isolated, Air-Gapped Edge Hardware / Ground Station Node (Zero Internet Access)  
 **Task**: GalaxEye ML Systems Take-Home Assignment — Part 1  
 
